@@ -1,1 +1,2 @@
 # bus-I2C-Raspberry-Pi-Pico-for-Prog
+Hello There, i'm someone how want turn Raspberry Pi Pico to a programmer I2C but using assembly language, and this need some knowlage about the CPU used "Dual-Core Arm Cortex-M0+" and datasheet of it get in the internet, i just want to try based on seeing a tutoriels on the YouTube and also want to read some PDF to understand the coding using for the communication I2C. this page will update when i will get the information about the topic.
