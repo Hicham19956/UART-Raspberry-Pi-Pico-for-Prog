@@ -8,7 +8,7 @@ Raspberry Pi Pico Datasheet:
 
 Tools: (to convert into bin, and to compile to u2f format for Pico)
 <li>https://github.com/willth7/au</li>
-<li>https://github.com/willth7/zn<li>
+<li>https://github.com/willth7/zn</li>
 <li>https://github.com/willth7/binhex</li>
 <li>https://github.com/willth7/binuf2</li>
 
